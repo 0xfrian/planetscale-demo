@@ -1,0 +1,8 @@
+# Ignore Node modules folder
+node_modules
+
+# Ignore dotenv file
+.env
+
+# Ignore package-lock.json file
+package-lock.json
